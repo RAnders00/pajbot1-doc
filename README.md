@@ -1,3 +1,3 @@
 # pajbot1-doc
 
-Check out the `debian9/install-debian9.txt` file for install instructions.
+Install instructions moved to https://github.com/pajbot/pajbot/tree/master/install-docs
